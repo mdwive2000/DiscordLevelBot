@@ -1,1 +1,4 @@
 discord.py
+Pillow
+aiohttp  
+requests
